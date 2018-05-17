@@ -1,6 +1,6 @@
 <?php
 /*
-	Question2Answer by Gideon Greenspan and contributors aa
+	Question2Answer bya Gideon Greenspan and contributors aa
 	http://www.question2answer.org/asdfgh
 
 	Description: Database-level access to blobs table for large chunks of data (e.g. images)
